@@ -77,13 +77,6 @@
 ### Development Time
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrosantoswebdev&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&custom_title=This%20Week%27s%20Coding%20Time)
 
-### Language Statistics
-<a href='https://profile.codersrank.io/user/pedrosantoswebdev/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantoswebdev&padding=30&skills=javascript,typescript,php,python,reactjs,vuejs,nodejs,html,css'>
-</a>
-
-###
-
 ## 🌐 Connect With Me
 <div align="left">
   <a href="https://x.com/pedro_vcfs" target="_blank">
