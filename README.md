@@ -41,19 +41,20 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-      <!-- frontend -->
+      <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,typescript,tailwind,vite&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,typescript,tailwind,vite&theme=light" />
-          <img src="https://skillicons.dev/icons?i=react,vuejs,nextjs,nuxtjs,typescript,tailwind,vite&theme=light" alt="frontend skills" />
-      </picture>
-      <br />
-      <!-- backend -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgresql,docker,git,linux,aws&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgresql,docker,git,linux,aws&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgresql,docker,git,linux,aws&theme=light" alt="backend skills" />
-      </picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
   </a>
 </p>
 <br />
