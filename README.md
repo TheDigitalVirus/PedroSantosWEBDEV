@@ -35,31 +35,29 @@
   <a href="https://instagram.com/vinf_santos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<hr />
-<!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmysql%2Cpostgres%2Cprisma%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" height="20px">
+  Skills & Technologies
+</h2>
 
-  </a>
-</p>
-<br />
+<div align="center">
+  <!-- Languages & Fundamentals -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+ 
+  <!-- Frontend & Web Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express" />
+  <br />
+  <!-- Backend & API -->
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" />
 
-<hr />
+  <!-- Databases & Queues -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,supabase,prisma" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
+
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=github" />
+</div>
+
 <!-- snake graph -->
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
